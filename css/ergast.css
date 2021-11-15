@@ -1,0 +1,19 @@
+label{
+    margin-left:18px;
+}
+
+nav > p{
+    margin:3px;
+}
+
+input[type=button]{
+    margin-left: 10px;
+}
+
+#input{
+    margin-top:20px; 
+}
+
+#display{
+    margin:50px;
+}
